@@ -1,5 +1,11 @@
 # MiraiGo-module-morning
 
+archived, use this:
+
+<https://github.com/yukichan-bot-module/MiraiGo-module-morning>
+
+---
+
 ID: aimerneige.test.morning
 
 Module for [MiraiGo-Template](https://github.com/Logiase/MiraiGo-Template)
